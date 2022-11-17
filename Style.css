@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+body{
+    background: fixed;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-image: radial-gradient(Red,Blue);
+}
+h1{
+    color: aqua;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+    text-shadow: black 00 4px, grey 5px 5px 10px;
+}
+h2{
+    color: crimson;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration:dotted;
+    text-shadow: black 00 6px, grey 7px 7px 10px;
+}
+span{
+    color: grey;
+    font-size: medium;
+    font-weight: 400;
+    text-decoration: underline;
+}
+u{
+    color: red;
+}
+a{
+    color: black;
+}
+h3{
+    color: darkgreen;
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: underline;
+    text-shadow: black 00 5px, grey 6px 6px 11px;
+}
